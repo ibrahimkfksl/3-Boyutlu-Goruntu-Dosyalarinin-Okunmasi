@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1571866615 source:c:\users\invisible\desktop\prolabproje1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<Math.h>
+	<string.h>
+	<dirent.h>
+
